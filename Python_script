@@ -1,0 +1,15 @@
+from google import genai
+import os
+
+client = genai.Client(api_key=os.getenv("MY_API_KEY"))
+
+uploaded_file = client.files.upload(file = r"your_aptamer_file.pdf")
+
+response = client.models.generate_content(
+    model = "gemini-3.7-flash", 
+    contents = ["For the novel thrombin aptamer, extract the primary aptamer \
+                name, aptamer sequence (not including primers), and the pool\
+                 information (the starting selection pool with the flanking\
+                 region. Also provide the randomized region length like, N40)", uploaded_file]
+)
+print(response.text)
