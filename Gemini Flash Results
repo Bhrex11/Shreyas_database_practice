@@ -1,0 +1,8 @@
+ First Paper:
+ **Primary Aptamer Name:** **Thb1** *(Note: The novel non-canonical candidate co-isolated during the selection is **Carb1**)*
+* **Aptamer Sequence (core/variable region only, without flanking stems/primers):**
+  * **Thb1:** `5'-GGTTGGTGTGGTTGG-3'`
+  * *(Carb1: `5'-GCTATCATCGCAACG-3'`)*
+* **Starting Selection Pool Information:**
+  * **Pool Sequence:** `5'-Phos/ACACGCGCATGC-N15-GCATGCGCCACA-3'` *(also written as `5'-Phos/ACACGCGCATGC-m15-GCATGCGCCACA-3'`)*
+  * **Randomized Region Length:** **N15** (15 nucleotides)
