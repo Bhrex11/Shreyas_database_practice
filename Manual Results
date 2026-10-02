@@ -1,0 +1,15 @@
+First Paper: 
+Name: Carb1
+Name Evidence: On Page 3, it is referred to as a “novel carbohydrate binding aptamer sequence”
+Sequence: GCTATCATCGCAACG ; 
+Evidence: Table 3, The sequence is corresponded to the Carb1 aptamer, it is also 15 bp long which is the randomized length of the pool
+Pool Sequence: ACACGCGCATGC-m15-GCATGCGCCACA 
+Evidence: On page 9, in the methods section, it is referred to as the sequence for the m=15 DNA library
+
+Second Paper
+Name: Thr-08
+Evidence: On page 2, The-08 is defined as the highest-affinity thrombin aptamer sequence
+Sequence: CAGCGCTAGGGCTTTTAGCGTAATGGGTAGGGTGGTGCGGTGCAGATATCGGAATTGGTG
+Evidence: Found in Table S1, listed under Thr-08, and is 60 bp long like the randomized region
+Pool Sequence: 5’-AGCAGCACAGAGGTCAGATG-[60N]-CCTATGCGTGCTACCGTGAA-3’
+Evidence: listed on Page 5, described as the 100 bp random library with a 60 bp randomized region. 
