@@ -1,0 +1,5 @@
+Notable Discrepancies
+The only notable discrepancy was that Gemini identified more than one major candidate for each paper. 
+This could possibly be because there was no specific instruction to make Gemini identify one best aptamer candidate.
+In order to improve the prompt, we could create a specification where Gemini knows to identify the best aptamer candidate
+and define what the best aptamer candidate is. 
