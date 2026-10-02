@@ -6,3 +6,11 @@
 * **Starting Selection Pool Information:**
   * **Pool Sequence:** `5'-Phos/ACACGCGCATGC-N15-GCATGCGCCACA-3'` *(also written as `5'-Phos/ACACGCGCATGC-m15-GCATGCGCCACA-3'`)*
   * **Randomized Region Length:** **N15** (15 nucleotides)
+Second Paper:
+ **Primary Aptamer Name:** **Thr-08** *(Thr-02 was also identified as a top clone)*
+* **Aptamer Sequence (variable region only, 5' to 3'):**  
+`CAGCGCTAGGGCTTTTAGCGTAATGGGTAGGGTGGTGCGGTGCAGATATCGGAATTGGTG`  
+  *(For Thr-02: `TTGAAGTAATTTTATAGGTCTTTTATTGGGTAGGGTGGTTTTAATTGGTGTGACAAATTG`)*
+* **Starting Selection Pool Information:**  
+  `5'-AGCAGCACAGAGGTCAGATG-[60N]-CCTATGCGTGCTACCGTGAA-3'`
+* **Randomized Region Length:** **N60** (60 randomized nucleotides)
